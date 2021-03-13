@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/issues/ewertonbn/moveit" />
   <img src="https://img.shields.io/github/forks/ewertonbn/moveit" />
   <img src="https://img.shields.io/github/stars/ewertonbn/moveit" />
-  <img src="https://img.shields.io/github/license/ewertonbn/moveit" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -30,6 +30,7 @@
 * [About](#About)
 * [Technologies](#Technologies)
 * [How to install and use](#How-to-install-and-use)
+* [Layout](#Layout)
 
 ## About
 <p>
@@ -79,6 +80,15 @@ $ yarn dev
 # The server will start at port:3000 - access  http://localhost:3000
 
 ```
+## Layout
+You can view the layout of the project through [this link](https://www.figma.com/file/wrb2uWjEGn30cCIoUNCqca/Move.it-2.0-Copy?node-id=160%3A2761). Account is required [Figma](https://figma.com) to access it.
+
+<br>
+
+## License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file  for more details.
+
 <br>
 
 ### Autor
