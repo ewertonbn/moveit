@@ -83,13 +83,9 @@ $ yarn dev
 ## Layout
 You can view the layout of the project through [this link](https://www.figma.com/file/wrb2uWjEGn30cCIoUNCqca/Move.it-2.0-Copy?node-id=160%3A2761). Account is required [Figma](https://figma.com) to access it.
 
-<br>
-
 ## License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file  for more details.
-
-<br>
 
 ### Autor
 ---
