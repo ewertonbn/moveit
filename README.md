@@ -87,7 +87,7 @@ You can view the layout of the project through [this link](https://www.figma.com
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file  for more details.
 
-### Autor
+### Author
 ---
 
 <a href="https://app.rocketseat.com.br/me/ewertonbn">
