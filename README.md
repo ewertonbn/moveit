@@ -37,6 +37,14 @@
 The Move.it app is for you who spend a lot of time sitting at your computer. It is based on the Pomodoro technique, where you perform cycles of activities and at intervals the challenges to be performed are presented, where it will bring benefits to your health. After completing each exercise, you receive experiences and reach a new level. A nice way to take care of your health!
 </p>
 
+<a href="https://moveit-application.vercel.app/">Application link</a>
+
+<p align="center"> 
+  <a href="https://moveit-application.vercel.app/">
+    <img src="./public/screenshots/moveit-nlw.gif" />
+  </a>
+</p>
+
 #### Features
 
 - [x] Creation of the counter component
