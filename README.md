@@ -90,7 +90,7 @@ $ yarn dev
  <sub><b>Ewerton Bernardo</b></sub></a> <a href="https://app.rocketseat.com.br/me/ewertonbn/" title="Rocketseat">🚀</a>
 
 
-Made with ❤️ by Ewerton Bernardo 👋🏽 Let's connect!
+Made with ❤️ by Ewerton Bernardo 👋🏽 Let's connect! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonbn/)](https://www.linkedin.com/in/ewertonbn/) 
 [![Gmail Badge](https://img.shields.io/badge/-ewertonbn.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ewertonbn.dev@gmail.com)](mailto:ewertonbn.dev@gmail.com)
